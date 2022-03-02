@@ -5,3 +5,6 @@ and now bye
 
 this is an edit in new branch
 more edit in the newbranch to get the merge branch info
+
+this par is edited in git new new branch 
+to use gitmerge functions
